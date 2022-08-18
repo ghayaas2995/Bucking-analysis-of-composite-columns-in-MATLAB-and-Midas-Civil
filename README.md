@@ -1,0 +1,1 @@
+# Bucking-analysis-of-composite-columns-in-MATLAB-and-Midas-Civil

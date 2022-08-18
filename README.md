@@ -9,6 +9,7 @@ recent years, here concrete slabs and steel beams combine to resist load. There 
 popularity of composite columns. Concrete filled steel tubes (CFSTs) are used in many
 structural applications including columns, supporting platforms of roofs of storage tanks,
 offshore structures, columns in seismic zones and bridge piers.
+
 In this study, the load carrying capacity of the composite steel columns will be validated
 for Self Compacting Concrete (SCC) of different grades such as M20 M30 M40 by developing
 programs using MATLAB software. The complex behavior of composite steel columns plays an
@@ -19,6 +20,7 @@ varying from 337mm to 483mm and length from 202.2mm to 678.4mm is considered as
 experimental results are available from different national and international research works
 including R&D works carried out at Civil Engineering research laboratory at Ghousia College of
 Engineering by previous UG, PG and research scholars since 2010 till date.
+
 The above considered columns are also modelled in a FEM software MIDAS CIVIL
 2018 for different end support conditions such as fixed and hinged. Comparative studies have
 been carried out in variation of loads for the different end conditions.

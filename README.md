@@ -25,7 +25,7 @@ The above considered columns are also modelled in a FEM software MIDAS CIVIL
 2018 for different end support conditions such as fixed and hinged. Comparative studies have
 been carried out in variation of loads for the different end conditions.
 
-Below are some screenshots of columns buckling when subjected to failure loads as visualized by Midas Civil:
+Below are some screenshots of columns buckling when subjected to failure loads visualized in Midas Civil:
 
 ![12_M2 FHD](https://user-images.githubusercontent.com/74657588/185510890-75f4c28c-fb5b-456a-9c1f-55e403e1e1f8.jpg)
 
